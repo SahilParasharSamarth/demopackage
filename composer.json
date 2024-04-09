@@ -1,0 +1,18 @@
+{
+    "name": "demoproject/sahil",
+    "description": "A simple package for demonstration purposes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sahil",
+            "email": "sahilparashar2098@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MyPackage\\": "src/"
+        }
+    },
+    "require": {}
+}
